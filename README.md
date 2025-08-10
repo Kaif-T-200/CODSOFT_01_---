@@ -1,4 +1,6 @@
-# 📝 To-Do List Pro
+<h1 align="center">  📝 To-Do List Pro </h1>
+
+
 **Tagline:** Organize, Prioritize, and Conquer Your Tasks 🚀
 
 ---
@@ -45,7 +47,8 @@ to-do-list-pro/
 │
 ├── main.py        # Main application code
 ├── tasks.json     # Saved tasks (auto-created)
-└── README.md      # Project documentation
+├── README.md      # Project documentation
+└── ScreenShot     # Preview (screenshot)
 ```
 
 ---
@@ -78,12 +81,14 @@ python main.py
 ---
 
 ## 📸 Screenshots
-*(Add your GUI screenshots here)*
+
+
+<img src="ScreenShot.png" alt="screenshot" width="500">
 
 ---
 
 ## 📝 License
-This project is licensed under the **MIT License**.  
+This project is licensed under the [License: MIT](https://github.com/Kaif-T-200/CODSOFT_01_---/blob/main/LICENSE).  
 By using this software, you agree to the terms of the MIT License.
 
 ---
